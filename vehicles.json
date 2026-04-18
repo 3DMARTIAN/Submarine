@@ -1,0 +1,8 @@
+{
+  "submarine_types": [
+    "Nuclear Submarine",
+    "Diesel-Electric Submarine",
+    "Research Submarine",
+    "Mini Submarine"
+  ]
+}
